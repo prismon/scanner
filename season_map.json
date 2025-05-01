@@ -1,0 +1,31 @@
+{
+    "Show1": {
+        "SeasonA": 1
+    },
+    "Show2": {
+        "A-New-Season": 2,
+        "Season1": 1
+    },
+    "Show3": {
+        "A-First": 2,
+        "B-Second": 4,
+        "C-Middle": 1,
+        "z-Last": 3
+    },
+    "Show4": {
+        "FIRST": 1,
+        "Third": 3,
+        "second": 2
+    },
+    "Show5": {
+        "A-First": 4,
+        "B-Second": 2,
+        "C-Third": 3,
+        "D-Fourth": 1
+    },
+    "Show6": {
+        "A-First": 3,
+        "C-Third": 1,
+        "D-Fourth": 2
+    }
+}
